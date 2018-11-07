@@ -188,7 +188,7 @@ Nth | value | time (ms)
 
  According to the above data, we can see that：
  - The most efficient algorithm is Local variable exchange, because it can save a lot of memory and the time to alloct memory.
- - The efficiency of Golang programming language is much better than that of Java. 
+ - The efficiency of Golang programming language is much better than Java. 
 
  # Last
 It only shows the code written by Java and Go, and we will add more programming languages later.Welcome anybody to submit pull request.

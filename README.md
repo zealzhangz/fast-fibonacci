@@ -185,6 +185,7 @@ Nth | value | time (ms)
 
 # Summary
 ![CalcNthFibonacciTime](CalcNthFibonacciTime.png)
+
  According to the above data, we can see that：
  - The most efficient algorithm is Local variable exchange, because it can save a lot of memory and the time to alloct memory.
  - The efficiency of Golang programming language is much better than that of Java. 
